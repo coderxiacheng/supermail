@@ -22,17 +22,16 @@ export default {
   text-align: center;
   line-height: 44px;
   height: 44px;
-  height: 44px;
+
   box-shadow: 0 1px 1px rgba(100, 100, 100, .3);
 }
-.left .right {
+.left  {
   width: 60px;
-  height: 44px;
-  
+}
+.right{
+  width:60px;
 }
 .center {
   flex: 1;
-  height: 44px;
- 
 }
 </style>
